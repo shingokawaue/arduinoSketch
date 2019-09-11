@@ -1,0 +1,109 @@
+現在使われているプロファイル
+現在使われているプロファイル[1]。ここに記載されているのは主に Bluetooth BR/EDR 向けである。
+
+3D Synchronization Profile (3DSP)
+3Dメガネとテレビを繋ぐためのプロファイル。
+
+Advanced Audio Distribution Profile (A2DP)
+デジタルオーディオプレイヤー - ヘッドフォン間などで用いられる、
+ステレオ音質のオーディオデータをストリーミング配信するためのプロファイル。
+
+Audio/Video Remote Control Profile (AVRCP)
+デジタルオーディオプレイヤー - リモコン間などで用いられる、
+操作対象デバイスをリモコンからリモート操作するためのプロファイル。
+
+Basic Imaging Profile (BIP)
+携帯電話 - プリンタ間などで用いられる、画像の送受信や印刷のためのプロファイル。
+
+Basic Printing Profile (BPP)
+携帯電話 - プリンタ間などで用いられる、電子メールや画像、
+プレーンテキストなどの印刷のためのプロファイル。
+
+Calendar Tasks and Notes Profile (CTN)
+カレンダータスクとノート
+
+Device Identification Profile (DI)
+SDPを利用して、デバイス固有の情報を提供するためのプロファイル。
+
+Dial-Up Network Profile (DUN)
+Bluetoothの無線接続経由で、インターネットや他のダイアルアップサービスに
+アクセスするためのプロファイル。
+
+File Transfer Profile (FTP)
+2台のPC間でファイル転送を行なうためのプロファイル。
+同名のプロトコル (File Transfer Protocol) との関連はない。
+
+Generic Access Profile (GAP)
+他の全てのプロファイルの基礎として機能するプロファイルで、
+機器の接続、認証、暗号化などを行なうもの。A2DPとVDPの基礎として使われている。
+
+Generic Attribute Profile（GATT)
+Bluetooth Low Energyを利用するすべての通信のベースとなるプロファイル。
+その他のプロファイルと組み合わせて使う。
+
+General Audio/Video Distribution Profile (GAVDP)
+ビデオストリームやオーディオストリームを配信するためのプロファイル。
+前述のGAPと同じく、A2DPとVDPの基礎として使われている。
+
+Global Navigation Satellite System Profile (GNSS)
+GPSなどの測位情報を伝送するためのプロファイル。
+
+Generic Object Exchange Profile (GOEP)
+ファイル転送の基礎として機能するプロファイル。
+
+Generic PIM Profile (GPP)
+PIM
+
+Hard Copy Cable Replacement Profile (HCRP)
+PC - プリンタ間で用いられる、ファイルの印刷・スキャンを行なうためのプロファイル。
+
+Health Device Profile (HDP)
+健康管理機器を接続するためのプロファイル。
+
+Hands-Free Profile (HFP)
+携帯電話 - ヘッドセット間などで用いられる、
+電話の発着信や通話を行なうためのプロファイル。
+
+Human Interface Device Profile (HID)
+キーボードやマウス（ポインティングデバイス）をBluetoothの無線接続経由で
+使用するためのプロファイル。
+
+Headset Profile (HSP)
+PC・携帯電話 - ヘッドセット間などで用いられる、音声入出力を行なうためのプロファイル。
+
+Interoperability Profile (IOPT)
+すべてのBluetooth対応機器に適用されるプロファイルで相互運用性を定義する。
+
+Message Access Profile (MAP)
+デバイス間でメッセージオブジェクトを交換するためのプロファイル。
+GOEPを基礎技術として用いている。
+
+Multi-Profile Specification (MPS)
+複数のプロファイルのサポート
+
+Object Push Profile (OPP)
+携帯電話 - 携帯電話間のオブジェクト（たとえば電話帳のデータやスケジュールのデータなど）
+を交換するために使用されるプロファイル。
+
+Personal Area Networking Profile (PAN)
+ある1台のPC（マスター）を中心として、複数のPC（スレイブ）が無線接続を
+行なうためのプロファイル。
+
+Phone Book Access Profile(PBAP)
+電話帳情報を伝送するためのプロファイル。
+
+SIM Access Profile (SAP)
+GSM(2G)方式のSIMカード、UICC、R-UIMカードにアクセスするためのプロファイル。
+
+Serial Port Profile (SPP)
+PC間において仮想シリアルポートを設定し、それらのPCを接続するために使用されるプロファイル。
+
+Synchronization Profile (SYNCH)
+GOEPと連動して使用することで、PCや携帯電話などの各デバイス間で
+各種情報（カレンダーやアドレスなど）を共有するために使用されるプロファイル。
+
+Video Distribution Profile (VDP)
+ビデオカメラ - モニタ間などで、ビデオデータをストリーミング配信するためのプロファイル。
+
+GATTプロファイルとサービス
+主に Bluetooth Low Energy 用に GATT プロファイルとサービスの仕様が多数制定されている。詳細は https://www.bluetooth.com/specifications/gatt を参照。

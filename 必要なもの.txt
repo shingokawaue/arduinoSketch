@@ -1,0 +1,9 @@
+基板　Hiletgo LEONARDO　R3　Pro　（ATMEGA32U4)
+      Arduino Leonardoのクローン
+
+ケーブル　USB　マイクロケーブル
+
+ジャンパ線
+
+ブレッドボード
+
